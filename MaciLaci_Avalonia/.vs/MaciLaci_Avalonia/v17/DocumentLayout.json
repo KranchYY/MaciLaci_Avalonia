@@ -1,0 +1,323 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:views\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:viewmodels\\gameviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\gamemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\itimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\macilacimovementeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\macilacimovementeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\viewmodels\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:viewmodels\\gamefield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F9A6D4-A3FF-495C-B95E-A3F50CD1B2FC}|..\\MaciTest_Avalonia\\MaciTest_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macitest_avalonia\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:app.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\persistance\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:persistance\\forest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\macilacifieldeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\macilacifieldeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\macilacieventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\macilacieventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\models\\gametimerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:models\\gametimerinheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\persistance\\maci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:persistance\\maci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\persistance\\forestfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:persistance\\forestfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|c:\\users\\juhas\\desktop\\egyetem\\5. f\u00E9l\u00E9v\\eva\\harmadik beadand\u00F3\\macilaci_avalonia\\persistance\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F17B03-9C05-4E59-81F0-60E7F1FE88A0}|MaciLaci_Avalonia.csproj|solutionrelative:persistance\\hunter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Views\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Views\\MainWindow.axaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:55:42.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\GameViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameViewModel.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\GameViewModel.cs",
+              "RelativeToolTip": "ViewModels\\GameViewModel.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAIwKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:16:19.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "ViewModels\\ViewModelBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:20:19.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Views\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Views\\MainWindow.axaml",
+              "RelativeToolTip": "Views\\MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-24T13:16:21.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaciLaciMovementEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciMovementEventArgs.cs",
+              "RelativeDocumentMoniker": "Models\\MaciLaciMovementEventArgs.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciMovementEventArgs.cs",
+              "RelativeToolTip": "Models\\MaciLaciMovementEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:29:45.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForestField.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\ForestField.cs",
+              "RelativeDocumentMoniker": "Persistance\\ForestField.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\ForestField.cs",
+              "RelativeToolTip": "Persistance\\ForestField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:32:50.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Forest.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Forest.cs",
+              "RelativeDocumentMoniker": "Persistance\\Forest.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Forest.cs",
+              "RelativeToolTip": "Persistance\\Forest.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAArwCAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:33:11.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\App.axaml.cs",
+              "RelativeDocumentMoniker": "App.axaml.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\App.axaml.cs",
+              "RelativeToolTip": "App.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T12:13:37.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameModel.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\GameModel.cs",
+              "RelativeDocumentMoniker": "Models\\GameModel.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\GameModel.cs",
+              "RelativeToolTip": "Models\\GameModel.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:25:42.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameField.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\GameField.cs",
+              "RelativeDocumentMoniker": "ViewModels\\GameField.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\ViewModels\\GameField.cs",
+              "RelativeToolTip": "ViewModels\\GameField.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:23:11.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITimer.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\ITimer.cs",
+              "RelativeDocumentMoniker": "Models\\ITimer.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\ITimer.cs",
+              "RelativeToolTip": "Models\\ITimer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:27:01.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.axaml",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\App.axaml",
+              "RelativeDocumentMoniker": "App.axaml",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\App.axaml",
+              "RelativeToolTip": "App.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T13:56:07.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T13:56:54.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciTest_Avalonia\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\MaciTest_Avalonia\\Test1.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciTest_Avalonia\\Test1.cs",
+              "RelativeToolTip": "..\\MaciTest_Avalonia\\Test1.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA5wAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T21:32:46.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameTimerInheritance.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\GameTimerInheritance.cs",
+              "RelativeDocumentMoniker": "Models\\GameTimerInheritance.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\GameTimerInheritance.cs",
+              "RelativeToolTip": "Models\\GameTimerInheritance.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:27:43.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MaciLaciEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciEventArgs.cs",
+              "RelativeDocumentMoniker": "Models\\MaciLaciEventArgs.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciEventArgs.cs",
+              "RelativeToolTip": "Models\\MaciLaciEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:28:31.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MaciLaciFieldEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciFieldEventArgs.cs",
+              "RelativeDocumentMoniker": "Models\\MaciLaciFieldEventArgs.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Models\\MaciLaciFieldEventArgs.cs",
+              "RelativeToolTip": "Models\\MaciLaciFieldEventArgs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:29:09.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Maci.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Maci.cs",
+              "RelativeDocumentMoniker": "Persistance\\Maci.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Maci.cs",
+              "RelativeToolTip": "Persistance\\Maci.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:34:17.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Hunter.cs",
+              "DocumentMoniker": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Hunter.cs",
+              "RelativeDocumentMoniker": "Persistance\\Hunter.cs",
+              "ToolTip": "C:\\Users\\juhas\\Desktop\\Egyetem\\5. f\u00E9l\u00E9v\\Eva\\Harmadik beadand\u00F3\\MaciLaci_Avalonia\\Persistance\\Hunter.cs",
+              "RelativeToolTip": "Persistance\\Hunter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T13:31:46.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
